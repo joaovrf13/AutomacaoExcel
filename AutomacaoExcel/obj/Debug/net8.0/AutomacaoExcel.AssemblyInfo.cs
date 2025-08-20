@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutomacaoExcel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5af52301b8efa1b191095ac58516a3eded267e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutomacaoExcel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutomacaoExcel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

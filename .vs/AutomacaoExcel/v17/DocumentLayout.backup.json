@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\joaov\\OneDrive\\\u00C1rea de Trabalho\\Controle De Clientes e Produtos\\AutomacaoExcel\\",
+  "WorkspaceRootPath": "C:\\Users\\joaov\\OneDrive\\\u00C1rea de Trabalho\\AutomacaoExcel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4232AE0D-371E-49DA-BAC2-0EEEDDEB7AA2}|AutomacaoExcel\\AutomacaoExcel.csproj|c:\\users\\joaov\\onedrive\\\u00E1rea de trabalho\\controle de clientes e produtos\\automacaoexcel\\automacaoexcel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4232AE0D-371E-49DA-BAC2-0EEEDDEB7AA2}|AutomacaoExcel\\AutomacaoExcel.csproj|c:\\users\\joaov\\onedrive\\\u00E1rea de trabalho\\automacaoexcel\\automacaoexcel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4232AE0D-371E-49DA-BAC2-0EEEDDEB7AA2}|AutomacaoExcel\\AutomacaoExcel.csproj|solutionrelative:automacaoexcel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\joaov\\OneDrive\\\u00C1rea de Trabalho\\Controle De Clientes e Produtos\\AutomacaoExcel\\AutomacaoExcel\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaov\\OneDrive\\\u00C1rea de Trabalho\\AutomacaoExcel\\AutomacaoExcel\\Program.cs",
               "RelativeDocumentMoniker": "AutomacaoExcel\\Program.cs",
-              "ToolTip": "C:\\Users\\joaov\\OneDrive\\\u00C1rea de Trabalho\\Controle De Clientes e Produtos\\AutomacaoExcel\\AutomacaoExcel\\Program.cs",
+              "ToolTip": "C:\\Users\\joaov\\OneDrive\\\u00C1rea de Trabalho\\AutomacaoExcel\\AutomacaoExcel\\Program.cs",
               "RelativeToolTip": "AutomacaoExcel\\Program.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAuwH0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T12:18:43.191Z",
               "EditorCaption": ""

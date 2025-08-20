@@ -303,11 +303,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joaov\\OneDrive\\Área de Trabalho\\Controle De Clientes e Produtos\\AutomacaoExcel\\AutomacaoExcel\\AutomacaoExcel.csproj",
+      "projectUniqueName": "C:\\Users\\joaov\\OneDrive\\Área de Trabalho\\AutomacaoExcel\\AutomacaoExcel\\AutomacaoExcel.csproj",
       "projectName": "AutomacaoExcel",
-      "projectPath": "C:\\Users\\joaov\\OneDrive\\Área de Trabalho\\Controle De Clientes e Produtos\\AutomacaoExcel\\AutomacaoExcel\\AutomacaoExcel.csproj",
+      "projectPath": "C:\\Users\\joaov\\OneDrive\\Área de Trabalho\\AutomacaoExcel\\AutomacaoExcel\\AutomacaoExcel.csproj",
       "packagesPath": "C:\\Users\\joaov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joaov\\OneDrive\\Área de Trabalho\\Controle De Clientes e Produtos\\AutomacaoExcel\\AutomacaoExcel\\obj\\",
+      "outputPath": "C:\\Users\\joaov\\OneDrive\\Área de Trabalho\\AutomacaoExcel\\AutomacaoExcel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
