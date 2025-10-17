@@ -5,6 +5,17 @@
     {
       "AbsoluteMoniker": "D:0:0:{4232AE0D-371E-49DA-BAC2-0EEEDDEB7AA2}|AutomacaoExcel\\AutomacaoExcel.csproj|c:\\users\\joaov\\onedrive\\\u00E1rea de trabalho\\automacaoexcel\\automacaoexcel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4232AE0D-371E-49DA-BAC2-0EEEDDEB7AA2}|AutomacaoExcel\\AutomacaoExcel.csproj|solutionrelative:automacaoexcel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4232AE0D-371E-49DA-BAC2-0EEEDDEB7AA2}|AutomacaoExcel\\AutomacaoExcel.csproj|c:\\users\\joaov\\onedrive\\\u00E1rea de trabalho\\automacaoexcel\\automacaoexcel\\automacaoexcel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4232AE0D-371E-49DA-BAC2-0EEEDDEB7AA2}|AutomacaoExcel\\AutomacaoExcel.csproj|solutionrelative:automacaoexcel\\automacaoexcel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\joaov\\onedrive\\\u00E1rea de trabalho\\automacaoexcel\\interface_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:interface_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +25,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutomacaoExcel",
+              "DocumentMoniker": "C:\\Users\\joaov\\OneDrive\\\u00C1rea de Trabalho\\AutomacaoExcel\\AutomacaoExcel\\AutomacaoExcel.csproj",
+              "RelativeDocumentMoniker": "AutomacaoExcel\\AutomacaoExcel.csproj",
+              "ToolTip": "C:\\Users\\joaov\\OneDrive\\\u00C1rea de Trabalho\\AutomacaoExcel\\AutomacaoExcel\\AutomacaoExcel.csproj",
+              "RelativeToolTip": "AutomacaoExcel\\AutomacaoExcel.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-26T15:22:32.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\joaov\\OneDrive\\\u00C1rea de Trabalho\\AutomacaoExcel\\Interface_\\Form1.cs",
+              "RelativeDocumentMoniker": "Interface_\\Form1.cs",
+              "ToolTip": "C:\\Users\\joaov\\OneDrive\\\u00C1rea de Trabalho\\AutomacaoExcel\\Interface_\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Interface_\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T21:58:37.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAFEHAAAAAAAAAAAswFcHAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-08-22T21:55:27.624Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +72,7 @@
               "RelativeDocumentMoniker": "AutomacaoExcel\\Program.cs",
               "ToolTip": "C:\\Users\\joaov\\OneDrive\\\u00C1rea de Trabalho\\AutomacaoExcel\\AutomacaoExcel\\Program.cs",
               "RelativeToolTip": "AutomacaoExcel\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAUwGcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T12:18:43.191Z",
               "EditorCaption": ""
